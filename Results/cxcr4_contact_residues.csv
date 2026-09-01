@@ -1,0 +1,37 @@
+Residue name,Residue number,Residue label,IT1t contact,CVX15 contact,Category
+GLU,26,GLU26,False,True,CVX15 only
+PRO,27,PRO27,False,True,CVX15 only
+GLU,32,GLU32,True,True,Shared
+TRP,94,TRP94,True,False,IT1t only
+ASP,97,ASP97,True,False,IT1t only
+ALA,98,ALA98,True,False,IT1t only
+TRP,102,TRP102,True,False,IT1t only
+VAL,112,VAL112,True,False,IT1t only
+HIS,113,HIS113,True,True,Shared
+TYR,116,TYR116,True,True,Shared
+THR,117,THR117,False,True,CVX15 only
+ASP,171,ASP171,False,True,CVX15 only
+SER,178,SER178,False,True,CVX15 only
+ARG,183,ARG183,True,False,IT1t only
+ILE,185,ILE185,True,True,Shared
+CYS,186,CYS186,True,True,Shared
+ASP,187,ASP187,True,True,Shared
+ARG,188,ARG188,True,True,Shared
+PHE,189,PHE189,False,True,CVX15 only
+TYR,190,TYR190,False,True,CVX15 only
+PRO,191,PRO191,False,True,CVX15 only
+ASN,192,ASN192,False,True,CVX15 only
+ASP,193,ASP193,False,True,CVX15 only
+VAL,196,VAL196,False,True,CVX15 only
+PHE,199,PHE199,False,True,CVX15 only
+GLN,200,GLN200,False,True,CVX15 only
+HIS,203,HIS203,False,True,CVX15 only
+TYR,255,TYR255,False,True,CVX15 only
+ASP,262,ASP262,False,True,CVX15 only
+ILE,265,ILE265,False,True,CVX15 only
+LEU,266,LEU266,False,True,CVX15 only
+GLU,277,GLU277,False,True,CVX15 only
+HIS,281,HIS281,False,True,CVX15 only
+ILE,284,ILE284,False,True,CVX15 only
+SER,285,SER285,False,True,CVX15 only
+GLU,288,GLU288,True,True,Shared
